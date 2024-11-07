@@ -2,7 +2,7 @@ const formulario = document.forms["frmRegistro"];
 const button = document.forms["frmRegistro"].elements["btnRegistro"];
 const modal = new bootstrap.Modal(document.getElementById("idModal"), {});
 const bodyModal = document.getElementById("idBodyModal");
-// Validar info del formulario, para esta parte se reciclo codigo de la guia 6 en la cuál creamos una guía, solo adaptandolo para lo que se pedía
+// Validar info del formulario, para esta parte se reciclo codigo de la guia 6 en la cuál creamos una ficha, solo adaptandolo para lo que se pedía
 const validarFormulario = () => {
     const correo = document.getElementById("correo").value;
     const fechaNacimiento = document.getElementById("fechaNacimiento").value;
