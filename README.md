@@ -1,2 +1,2 @@
-# Guia 7 Roberto Argueta
- Guia 7
+# Guias de desarrollo web I
+ Conglomerado de guías, de desarrollo web
